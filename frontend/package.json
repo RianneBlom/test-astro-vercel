@@ -1,0 +1,17 @@
+{
+  "name": "deeply-doppler",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^2.3.0",
+    "astro-icon": "^0.8.0",
+    "astro-sanity": "^1.1.3"
+  }
+}
